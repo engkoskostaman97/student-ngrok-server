@@ -7,6 +7,9 @@
 3.next create account from dashboard ngrok to your authtoken 
 4.next ngrok config add-authtoken (your authtoken)
 5.edit ngrok.yaml 
+![image](https://github.com/engkoskostaman97/belajar-ngrok-server/assets/110719940/1358bc8b-11a5-41a4-90d1-d9dcc3fb8ba8)
+6.run ngrok start ngrok.yaml for windows
+
 
 
 
