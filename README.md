@@ -9,6 +9,8 @@
 5.edit ngrok.yaml 
 ![image](https://github.com/engkoskostaman97/belajar-ngrok-server/assets/110719940/1358bc8b-11a5-41a4-90d1-d9dcc3fb8ba8)
 6.run ngrok start ngrok.yaml for windows
+![image](https://github.com/engkoskostaman97/belajar-ngrok-server/assets/110719940/e2ad5670-51a0-4573-aaef-bc96d8ad11a1)
+7.finish 
 
 
 
