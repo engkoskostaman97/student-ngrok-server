@@ -12,6 +12,7 @@
 ![image](https://github.com/engkoskostaman97/belajar-ngrok-server/assets/110719940/e2ad5670-51a0-4573-aaef-bc96d8ad11a1)
 7.finish 
 ![image](https://github.com/engkoskostaman97/belajar-ngrok-server/assets/110719940/63900d29-dfd9-40de-8e74-6fd3c8833343)
+
 8.run web chrome to address server ngrok 
 
 
